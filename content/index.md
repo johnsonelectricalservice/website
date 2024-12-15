@@ -5,7 +5,7 @@ description: 903-885-4876 💡 Sulphur Springs Electrician 🔌 over 35 years of
 layout: single
 ---
 
-![Johnson Electrical Services | 903-885-4876 | Sulphur Springs, TX](/truck.png)
+![Johnson Electrical Services | 903-885-4876 | Sulphur Springs, TX](truck.png)
 
 # ⚡ Electrical Installations and Repairs
 
@@ -42,7 +42,7 @@ Payment Types
 * Cash
 * Check
 
-![Texas flag](/tx_flag.gif)![USA flag](/usa_flag.gif)
+![Texas flag](tx_flag.gif)![USA flag](usa_flag.gif)
 
 *Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.*
 
