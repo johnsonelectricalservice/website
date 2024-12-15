@@ -1,0 +1,30 @@
+baseURL = 'https://johnsonelectricalservice.com/'
+languageCode = 'en-us'
+title = 'Johnson Electrical Service | 903-885-4876 | Sulphur Springs, TX'
+theme = "moonbooth-seo-theme"
+#theme = "hugo-theme-cleanwhite"
+disableKinds = ['taxonomy', 'term']
+enableRobotsTXT = true
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[params]
+	blogFooterLinkText = ""
+	# Sets anchor text of footer link to the blog
+
+#	blogSection = ""
+	# Enter your blog folder's name [1]
+
+	color = "#800020"
+	# Sets theme colour [2] & Safari mask icon colour [3]
+
+
+	description = "Electrical contractor. Residential electrical services. Commercial electrical services. Call to learn more about our senior and veteran discounts."
+	# Sets homepage meta description (for SEO)
+
+	rssTitle = "Johnson Electrical Service"
+	# Sets RSS feed title (for RSS readers)
+
+	seoTitle = "Johnson Electrical Service | 903-885-4876 | Sulphur Springs, TX"
+	# Sets homepage <title> (for SEO)
+
+	img = "logo.png"

@@ -1,0 +1,8 @@
+{{ define "main" }}
+<h1>{{ .Title | markdownify }}</h1>
+{{ with .Description }}<p id="description">{{ . | markdownify }}</p>{{ end }}
+<div id="byline">{{ with .Params.authors }}{{ range . }}{{ . }}{{ end }}{{ end }}<br></div>
+{{ if eq .Params.tableOfContents true  }}<aside id="toc"><h2>On this page</h2>{{ .TableOfContents }}</aside>{{ end }}
+{{ with .Params.img }}<img src="{{ $.Site.BaseURL }}img/{{ . }}">{{ end }}
+{{ .Content }}
+{{ end }}
