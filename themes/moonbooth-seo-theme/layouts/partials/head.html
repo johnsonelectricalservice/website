@@ -105,10 +105,13 @@
 			<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		{{- end -}}
 	{{- end -}}
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap">
- <style>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji" rel="stylesheet">
+<style>
 	 body {
 	   background-color: {{ site.Params.color }};
+		 font-family: 'Noto Color Emoji', sans-serif;
 	 }
  </style>
 </head>
