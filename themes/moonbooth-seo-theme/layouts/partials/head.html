@@ -79,8 +79,8 @@
 	<link rel="alternate" type="application/rss+xml" title="{{ site.Params.rssTitle }}" href="{{ .Site.BaseURL }}{{ site.Params.blogSection }}/index.xml">
 
 	{{- /* Icons */ -}}
-	<link rel="icon" href="/favicon.svg">
-	<link rel="mask-icon" href="/mask-icon.svg" color="{{ site.Params.color }}">
+	<link rel="icon" href="favicon.svg">
+	<link rel="mask-icon" href="mask-icon.svg" color="{{ site.Params.color }}">
 	<meta name="theme-color" content="{{ site.Params.color }}">
 
 	{{- /* Theme CSS (uses SCSS) */ -}}
@@ -89,7 +89,7 @@
 
 	{{- /* Custom JavaScript files go here */ -}}
 	{{ if (fileExists "static/scripts/custom.js") }}
-        <script src="/scripts/custom.js"></script>
+        <script src="scripts/custom.js"></script>
     {{- end -}}
 
 	{{ with .Site.Params.scripts }}
