@@ -1,5 +1,5 @@
-#baseURL = 'https://johnsonelectricalservice.com/'
-baseURL = 'https://johnsonelectricalservice.github.io/website/'
+baseURL = 'https://johnsonelectricalservice.com/'
+#baseURL = 'https://johnsonelectricalservice.github.io/website/'
 languageCode = 'en-us'
 title = 'Johnson Electrical Service | 903-885-4876 | Sulphur Springs, TX'
 theme = "moonbooth-seo-theme"
