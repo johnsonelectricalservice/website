@@ -92,7 +92,7 @@ header {
     padding: 0 500%;
 }
 
-#logo,
+.logo,
 footer {
     margin-top: ($increment * 6);
 }
@@ -126,11 +126,11 @@ aside {
     margin-bottom: ($increment * 2);
 }
 
-table,
-td,
-th {
-    border: 1px solid $color-accent;
-}
+//table,
+//td,
+//th {
+//    border: 1px solid $color-accent;
+//}
 
 th,
 td {
@@ -139,7 +139,7 @@ td {
 
 table {
     border-collapse: collapse;
-    width: 100%;
+//    width: 100%;
     margin-bottom: $increment;
     text-align: left;
 }
@@ -293,7 +293,7 @@ select {
         margin: 0 ($increment * 4) ($increment * 8);
     }
     // For sufficient tap target sizing
-    #logo,
+    .logo,
     footer {
         margin: ($increment * 3) 0 $increment;
     }

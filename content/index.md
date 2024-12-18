@@ -22,14 +22,16 @@ We learn something new every day and consider it as an ongoing learning experien
 
 ### ⏦ Our Wide Range of Electrical Services include:
 
-<br><span class='💡'>⏻</span> Installation
-<br><span class='💡'>🛠️</span> Electrical Repair
-<br><span class='💡'>🐀</span> Rewiring
-<br><span class='💡'>𖣘</span> Ceiling Fans
-<br><span class='💡'>💡</span> Lighting Fixtures
-<br><span class='💡'>👍</span> LED Upgrading
-<br><span class="🔫"></span> Troubleshooting <span class='💡'>🥆</span>
-<br><span class='💡'>⌁</span> Add-ons
+<table><tbody>
+<tr><td><span class='💡'>⏻</span></td><td>Installation</td></tr>
+<tr><td><span class='💡'>🛠️</span></td><td>Electrical Repair</td></tr>
+<tr><td><span class='💡'>🐀</span></td><td>Rewiring</td></tr>
+<tr><td><span class='💡'>𖣘</span></td><td>Ceiling Fans</td></tr>
+<tr><td><span class='💡'>💡</span></td><td>Lighting Fixtures</td></tr>
+<tr><td><span class='💡'>👍</span></td><td>LED Upgrading</td></tr>
+<tr><td><span class="🔫"></span></td><td>Troubleshooting</td></tr>
+<tr><td><span class='💡'>⌁</span></td><td>Add-ons</td></tr>
+</tbody></table>
 
 The time taken to complete each project varies. However, have peace of mind knowing that we complete all jobs efficiently <span class='💡'>🦾</span> and meticulously <span class='💡'>🤖</span>
 
@@ -51,7 +53,6 @@ Family owned and operated, Johnson Electrical Services provides electrical servi
 #### Payment Types:
 * Check <span class='💡'>💲</span> Cash
 
-![Texas flag](tx_flag.gif)![USA flag](usa_flag.gif)
 
 ✞ *Repent and be baptized, every one of you* ✞
 

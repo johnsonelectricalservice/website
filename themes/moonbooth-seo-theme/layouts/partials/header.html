@@ -1,1 +1,11 @@
-<header>{{- if .IsHome -}}<img id="logo" src="logo.png" alt="{{ .Site.Title }} logo">{{- else -}}<a href="/"><img id="logo" src="logo.png" alt="{{ .Site.Title }} logo"></a>{{- end -}}</header>
+<header>
+{{- if .IsHome -}}
+<div style="display: flex; gap: 10px;">
+<img class="logo" src="logo.png" alt="{{ .Site.Title }} logo">
+<img class="logo" src="tx_flag.gif" alt="Texas flag" style="max-width: 30%; height: 30%;">
+<img class="logo" src="usa_flag.gif" alt="USA flag" style="max-width: 30%; height: 30%;">
+</div>
+{{- else -}}
+<a href="/"><img id="logo" src="logo.png" alt="{{ .Site.Title }} logo"></a>
+{{- end -}}
+</header>
